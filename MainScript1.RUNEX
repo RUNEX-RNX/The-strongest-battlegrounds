@@ -420,7 +420,15 @@ local _call365 = _call29:Tab({
     Icon = 'zap',
     Title = 'Aim Bot',
 })
+_call365:Button({
+    Locked = false,
+    Callback = function(...)
 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/RUNEX-RNX/RandomScripts/refs/heads/main/Fling-Player'))()
+    end,
+    Title = 'Player Fling',
+    Desc = 'join telegram @RUNEX_X_SCRIPT | For more Scripts!',
+})
 _call365:Button({
     Locked = false,
     Callback = function(...)
