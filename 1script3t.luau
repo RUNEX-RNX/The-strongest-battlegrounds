@@ -1,5 +1,3 @@
--- ts file was generated at discord.gg/25ms
-
 local _Players = game:GetService('Players')
 local _TweenService = game:GetService('TweenService')
 local _RunService = game:GetService('RunService')
