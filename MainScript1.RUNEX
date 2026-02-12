@@ -409,7 +409,7 @@ _call335:Button({
 _call335:Button({
     Locked = false,
     Callback = function(...)
-        loadstring(game:HttpGet('https://rawscripts.net/raw/Universal-Script-Headless-Korblox-73782'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/RUNEX-RNX/RandomScripts/refs/heads/main/korblox-Headless'))()
     end,
     Title = 'Headless and Korblox',
     Desc = 'join telegram @RUNEX_X_SCRIPT | My project',
@@ -418,7 +418,7 @@ _call335:Button({
 local _call365 = _call29:Tab({
     Locked = false,
     Icon = 'zap',
-    Title = 'Aimlock',
+    Title = 'Aim Bot',
 })
 
 _call365:Button({
@@ -427,7 +427,7 @@ _call365:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/ngoclinh02042011-stack/Aimlock-by-ThanhDuy-Account234/refs/heads/main/ThanhDuyCamlockOld.lua'))()
     end,
     Title = 'Aimlock Old',
-    Desc = 'By ThanhDuy',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call365:Button({
     Locked = false,
@@ -435,7 +435,7 @@ _call365:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/MinhNhatHUB/MinhNhat/refs/heads/main/Silent%20Aim.lua'))()
     end,
     Title = 'Silent aim',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call365:Button({
     Locked = false,
@@ -443,7 +443,7 @@ _call365:Button({
         loadstring(game:HttpGet('https://pastefy.app/NVrhJfjA/raw'))()
     end,
     Title = 'Aim V1',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 
 local _call388 = _call29:Tab({
@@ -458,7 +458,7 @@ _call388:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/randomstring0/pshade-ultimate/refs/heads/main/src/cd.lua'))()
     end,
     Title = 'Shader-All-Game',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 
 local _call397 = _call29:Tab({
@@ -473,7 +473,7 @@ _call397:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/MinhNhatHUB/MinhNhat/refs/heads/main/MinhNhatHUB%20(New).lua'))()
     end,
     Title = 'MinhNhatHUB',
-    Desc = 'Key: MinhNhatHUB On Top',
+    Desc = 'join telegram @RUNEX_X_SCRIPT | Key: MinhNhatHUB',
 })
 _call397:Button({
     Locked = false,
@@ -481,7 +481,7 @@ _call397:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/kaimm2/TSB/refs/heads/main/Tthanh%20Tong%20Hop%20Tech.txt'))()
     end,
     Title = 'TthanhHub',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call397:Button({
     Locked = false,
@@ -489,7 +489,7 @@ _call397:Button({
         loadstring(game:HttpGet('https://gist.githubusercontent.com/ngm2807-sudo/b30689b1cf65651cd287213f40fa0f50/raw/TSBbyBaeMinh.lua'))()
     end,
     Title = 'BaeMinhHub',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 
 local _call420 = _call29:Tab({
@@ -504,7 +504,7 @@ _call420:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/qwertyui-is-back/Bloxstrap/main/Initiate.lua'))()
     end,
     Title = 'Blox strap',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call420:Button({
     Locked = false,
@@ -512,7 +512,7 @@ _call420:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua'))()
     end,
     Title = 'Turbo Lite',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call420:Button({
     Locked = false,
@@ -520,7 +520,7 @@ _call420:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/ngoclinh02042011-stack/Flags-Smooth/refs/heads/main/Flags%20by%20ThanhDuy.lua'))()
     end,
     Title = 'Flags',
-    Desc = 'By ThanhDuy',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 
 local _call443 = _call29:Tab({
@@ -535,7 +535,7 @@ _call443:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/ngoclinh02042011-stack/Fist-Blue-And-Red/refs/heads/main/HieuUngVuiNhon.lua'))()
     end,
     Title = 'aura attack',
-    Desc = 'By ThanhDuy',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call443:Button({
     Locked = false,
@@ -543,7 +543,7 @@ _call443:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/ngoclinh02042011-stack/Ping-All-Game/refs/heads/main/Ping%20Player.lua'))()
     end,
     Title = 'Ping and CPU',
-    Desc = 'By ThanhDuy',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call443:Button({
     Locked = false,
@@ -551,5 +551,5 @@ _call443:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/ngoclinh02042011-stack/ThongBaoRoiVao/refs/heads/main/ThongBaoNeuMuonDung.lua'))()
     end,
     Title = 'Notification',
-    Desc = 'By ThanhDuy',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
