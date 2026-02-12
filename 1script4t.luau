@@ -1,5 +1,3 @@
--- ts file was generated at discord.gg/25ms
-
 (function()
     local _httpsrawgithubusercontentcomminhnhatdepzai8cloudMinhNhatrefsheadsmainCreditslua = game:HttpGet('https://raw.githubusercontent.com/minhnhatdepzai8-cloud/MinhNhat./refs/heads/main/Credits.lua')
 
