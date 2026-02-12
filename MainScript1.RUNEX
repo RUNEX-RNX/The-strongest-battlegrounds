@@ -92,9 +92,9 @@ _call49:Button({
 _call49:Button({
     Locked = false,
     Callback = function(...)
-        loadstring(game:HttpGet('wwww'))()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/ngoclinh02042011-stack/Surf-Tech/refs/heads/main/ThanhDuySurfTech.lua'))()
     end,
-    Title = 'RNX Surf Tech',
+    Title = 'RNX Surf Tech | No rework',
     Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
@@ -103,23 +103,7 @@ _call49:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/ngoclinh02042011-stack/Gojo-Tech/refs/heads/main/DuydepzaiGojoTech.lua'))()
     end,
     Title = 'RNX Gojo ',
-    Desc = 'join telegram @RUNEX_X_SCRIPT',
-})
-_call49:Button({
-    Locked = false,
-    Callback = function(...)
-        loadstring(game:HttpGet('https://api.junkie-development.de/api/v1/luascripts/public/5e4945144797011e2c6229d2f8a2a41bd771c018109e2eff0d6e119708c38400/download'))()
-    end,
-    Title = 'Side Dash Assist',
-    Desc = '',
-})
-_call49:Button({
-    Locked = false,
-    Callback = function(...)
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/MerebennieOfficial/ExoticJn/refs/heads/main/Protected_83737738.txt'))()
-    end,
-    Title = 'Lix Tech',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT | No rework',
 })
 _call49:Button({
     Locked = false,
@@ -127,15 +111,15 @@ _call49:Button({
         loadstring(game:HttpGet('https://api.getpolsec.com/scripts/hosted/84e2bd29cccc0f5302267e4dc952cff6816db4af36416cbd477daaa26d60863d.lua'))()
     end,
     Title = 'LoopDash V2',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT | This script is not mine',
 })
 _call49:Button({
     Locked = false,
     Callback = function(...)
         loadstring(game:HttpGet('https://rawscripts.net/raw/Universal-Script-M1-RESET-57657'))()
     end,
-    Title = 'M1 Reset',
-    Desc = '',
+    Title = 'RNX M1 Reset',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
