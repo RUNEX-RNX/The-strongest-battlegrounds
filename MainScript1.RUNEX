@@ -135,7 +135,7 @@ _call49:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/MinhNhatHUB/MinhNhat/refs/heads/main/Lethal%20Kiba.lua'))()
     end,
     Title = 'Lethal Kiba',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
@@ -143,7 +143,7 @@ _call49:Button({
         loadstring(game:HttpGet('https://api.getpolsec.com/scripts/hosted/23bcf4264b586dc93b16a9b054eddae259938b7421ac5096353079b2e9d74e24.lua'))()
     end,
     Title = 'Side Dash V3',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
@@ -151,7 +151,7 @@ _call49:Button({
         loadstring(game:HttpGet('https://api.getpolsec.com/scripts/hosted/2753546c83053761e44664d36ffe5035d6e20fc8aee1d19f0eb7b933974ae537.lua'))()
     end,
     Title = 'Supa v2',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
@@ -159,7 +159,7 @@ _call49:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/Cyborg883/InstantLethal/refs/heads/main/Protected_5983112998592296.lua'))()
     end,
     Title = 'Lethal Dash',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
@@ -167,7 +167,7 @@ _call49:Button({
         loadstring(game:HttpGet('https://api.getpolsec.com/scripts/hosted/ea0b7cbd8c395e01ec38271794b2559808d26501bd6e6e30c48660759a7db7b3.lua'))()
     end,
     Title = 'Supa Tech V3',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
@@ -175,7 +175,7 @@ _call49:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/officialakira/Akira-Hub/refs/heads/main/akira%20tech.lua'))()
     end,
     Title = 'Akira Tech',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
@@ -183,7 +183,7 @@ _call49:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/Cyborg883/InstantTwistedRevamp/refs/heads/main/Protected_7455521176683315.lua'))()
     end,
     Title = 'Instant Twisted',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
@@ -191,7 +191,7 @@ _call49:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/Cyborg883/NewAutoTech/refs/heads/main/Protected_6389347658054908.lua'))()
     end,
     Title = 'Auto Tech',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
@@ -199,7 +199,7 @@ _call49:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/ngoclinh02042011-stack/Oreo-Tech-NewGen-/refs/heads/main/ThanhDuyOreotech(New).lua'))()
     end,
     Title = 'Oreo Rework',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
@@ -207,7 +207,7 @@ _call49:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/letuankiet09812345-cmyk/Testkiba/refs/heads/main/LethalFixLag-obfuscated.lua.txt'))()
     end,
     Title = 'Lethal Dash FixLag',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
@@ -215,7 +215,7 @@ _call49:Button({
         loadstring(game:HttpGet('https://api.junkie-development.de/api/v1/luascripts/public/2345da4cc975b07b3f250f6a83c45687a70c1999b9c46219cd6893771f9dd542/download'))()
     end,
     Title = 'Boomy Lethal Dash',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
@@ -223,7 +223,7 @@ _call49:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/letuankiet09812345-cmyk/Testkiba/refs/heads/main/4cbcd9b905ee3e41.lua.txt'))()
     end,
     Title = 'Dripz',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
@@ -231,13 +231,13 @@ _call49:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/Cyborg883/InstantLethalRevamp/refs/heads/main/Protected_6977817281150270.lua'))()
     end,
     Title = 'Instant Lethal Revamp',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 
 local _call219 = _call29:Tab({
     Locked = false,
     Icon = 'zap',
-    Title = 'Script Tsb',
+    Title = '-',
 })
 
 _call219:Button({
@@ -246,7 +246,7 @@ _call219:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/MinhNhatHUB/MinhNhat/refs/heads/main/Farm%20Kill%20V3.2.lua'))()
     end,
     Title = 'Farm Kill V3.2',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call219:Button({
     Locked = false,
@@ -254,7 +254,7 @@ _call219:Button({
         loadstring(game:HttpGet('https://pastefy.app/Lpvb1WSW/raw'))()
     end,
     Title = 'Void Kill',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call219:Button({
     Locked = false,
@@ -262,7 +262,7 @@ _call219:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/Cyborg883/SaitamaCombo/refs/heads/main/Code.txt'))()
     end,
     Title = 'Combo Saitama',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call219:Button({
     Locked = false,
@@ -270,7 +270,7 @@ _call219:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/Cyborg883/CombosRemake/refs/heads/main/Script'))()
     end,
     Title = 'Combo Garou and Saitma',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call219:Button({
     Locked = false,
@@ -278,7 +278,7 @@ _call219:Button({
         loadstring(game:HttpGet('https://pastefy.app/JYn4De0C/raw'))()
     end,
     Title = 'Ultra instinct',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call219:Button({
     Locked = false,
@@ -286,7 +286,7 @@ _call219:Button({
         loadstring(game:HttpGet('https://pastefy.app/UY1oh6PG/raw'))()
     end,
     Title = '5 character combo',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call219:Button({
     Locked = false,
@@ -294,7 +294,7 @@ _call219:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/notpaki1/Beerus-gui-by-notpaki/main/obf_24xHkr77wX3zL8yph18nZ0mQDM3B7i0n6CliUS9hY642y0rysz9h7z7040j1m3Dl.lua.txt'))()
     end,
     Title = 'Beerus UI',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call219:Button({
     Locked = false,
@@ -302,7 +302,7 @@ _call219:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/notpaki5/Spiderman-gui-script/refs/heads/main/SpidermanGuiByNotpaki.txt'))()
     end,
     Title = 'Spiderman GUI',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call219:Button({
     Locked = false,
@@ -310,7 +310,7 @@ _call219:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/yes1nt/yes/refs/heads/main/Trashcan%20Man', true))()
     end,
     Title = 'Trash Can',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call219:Button({
     Locked = false,
@@ -318,7 +318,7 @@ _call219:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/ATrainz/Phantasm/refs/heads/main/Games/TSB.lua'))()
     end,
     Title = 'Farm Hard',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call219:Button({
     Locked = false,
@@ -326,7 +326,7 @@ _call219:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/Viunze/ZeOrbit/refs/heads/main/ZeOrbit.lua'))()
     end,
     Title = 'orbit Farm',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call219:Button({
     Locked = false,
@@ -334,7 +334,7 @@ _call219:Button({
         loadstring(game:HttpGet('https://pastefy.app/ZkZzX9WT'))()
     end,
     Title = 'Farm Rank',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call219:Button({
     Locked = false,
@@ -342,7 +342,7 @@ _call219:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/ATrainz/Phantasm/refs/heads/main/Phantasm.lua'))()
     end,
     Title = 'phantasm',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 
 local _call312 = _call29:Tab({
