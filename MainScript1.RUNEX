@@ -127,7 +127,7 @@ _call49:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/YQANTG/YQANTG/refs/heads/main/SOBABYIMSOGOOD.txt'))()
     end,
     Title = 'Backdash Cancel',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
