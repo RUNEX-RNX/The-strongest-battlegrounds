@@ -10,7 +10,7 @@ _5:AddTheme({
     Background = Color3.fromHex('#101010'),
     Icon = Color3.fromHex('#a1a1aa'),
     Accent = Color3.fromHex('#18181b'),
-})
+}) 
 
 local _call29 = _5:CreateWindow({
     User = {
@@ -237,7 +237,7 @@ _call49:Button({
 local _call219 = _call29:Tab({
     Locked = false,
     Icon = 'zap',
-    Title = '-',
+    Title = 'Random',
 })
 
 _call219:Button({
@@ -357,7 +357,7 @@ _call312:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/IdkRandomUsernameok/PublicAssets/refs/heads/main/Releases/MUI.lua'))()
     end,
     Title = 'Divine Form',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call312:Button({
     Locked = false,
@@ -365,7 +365,7 @@ _call312:Button({
         loadstring(game:HttpGet('https://arch-http.vercel.app/files/LIMITED EMOTE HUB (75-100) BY MIYKO'))()
     end,
     Title = 'MYKIO Limited Aura',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call312:Button({
     Locked = false,
@@ -373,7 +373,7 @@ _call312:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt'))()
     end,
     Title = 'Fake animation',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 
 local _call335 = _call29:Tab({
@@ -388,15 +388,15 @@ _call335:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/Guestly-Scripts/Items-Scripts/refs/heads/main/Oinan-Thickhoof'))()
     end,
     Title = 'Oinan-Thickhoof-Axe',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call335:Button({
     Locked = false,
     Callback = function(...)
         loadstring(game:HttpGet('https://raw.githubusercontent.com/GuestlyTheGreatestGuest/Scripts/refs/heads/main/Erisyphia-Staff-made-by-Guestly'))()
     end,
-    Title = 'Erisyphia-Staff-made-by-Guestly',
-    Desc = '',
+    Title = 'Erisyphia Staff made by RUNEX',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call335:Button({
     Locked = false,
@@ -404,15 +404,15 @@ _call335:Button({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/GuestlyTheGreatestGuest/Scripts/refs/heads/main/Elemental-Crystal-Golem-made-by-Guestly'))()
     end,
     Title = 'Elemental-Crystal-Golem',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call335:Button({
     Locked = false,
     Callback = function(...)
         loadstring(game:HttpGet('https://rawscripts.net/raw/Universal-Script-Headless-Korblox-73782'))()
     end,
-    Title = 'Headless-Korblox',
-    Desc = '',
+    Title = 'Headless and Korblox',
+    Desc = 'join telegram @RUNEX_X_SCRIPT | My project',
 })
 
 local _call365 = _call29:Tab({
