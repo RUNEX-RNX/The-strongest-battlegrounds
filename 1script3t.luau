@@ -6,7 +6,7 @@ local _LocalPlayer = _Players.LocalPlayer
 local _PlayerGui = _LocalPlayer:WaitForChild('PlayerGui')
 local _ScreenGui = Instance.new('ScreenGui')
 
-_ScreenGui.Name = 'KibaTechGUI'
+_ScreenGui.Name = 'RNXTechGUI'
 _ScreenGui.ResetOnSpawn = false
 _ScreenGui.Parent = _PlayerGui
 
@@ -212,7 +212,7 @@ local function u60(p50)
         _Part.Transparency = 1
         _Part.Anchored = true
         _Part.CanCollide = false
-        _Part.Name = 'KibaFollowPart'
+        _Part.Name = 'RNXFollowPart'
         _Part.Parent = workspace
 
         local _Attachment = Instance.new('Attachment', u12)
@@ -334,15 +334,15 @@ end)
 
 local v67 = _ScreenGui
 
-v67.Name = 'KibaToggleUI'
+v67.Name = 'RNXToggleUI'
 
-local u68 = _PlayerGui:FindFirstChild('KibaToggle') or Instance.new('TextButton')
+local u68 = _PlayerGui:FindFirstChild('RNXToggle') or Instance.new('TextButton')
 
-u68.Name = 'KibaToggle'
+u68.Name = 'RNXToggle'
 u68.Size = UDim2.new(0, 100, 0, 30)
 u68.Position = UDim2.new(0.45, 0, 0.45, 0)
 u68.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-u68.Text = 'Kiba Tech V4'
+u68.Text = 'RNX Tech V4'
 u68.TextColor3 = Color3.fromRGB(180, 20, 40)
 u68.TextSize = 12
 u68.Font = Enum.Font.GothamBold
@@ -533,7 +533,7 @@ u68.MouseButton1Click:Connect(function()
         u109(true)
 
         u72 = true
-        u68.Text = 'Kiba Tech V4'
+        u68.Text = 'RNX Tech V4'
     else
         _TweenService:Create(u68, TweenInfo.new(0.3), {
             BackgroundColor3 = Color3.fromRGB(0, 0, 0),
@@ -541,7 +541,7 @@ u68.MouseButton1Click:Connect(function()
         u109(false)
 
         u72 = false
-        u68.Text = 'Kiba Tech V4'
+        u68.Text = 'RNX Tech V4'
     end
 end)
 
