@@ -68,34 +68,34 @@ _call49:Button({
     Callback = function(...)
         genv.Requires4M1 = false
 
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/RUNEX-RNX/RandomScripts/refs/heads/main/The%20strongest%20battlegrounds1test'))()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/RUNEX-RNX/The-strongest-battlegrounds/refs/heads/main/1script1t.luau'))()
     end,
     Title = 'RUNEX',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
     Callback = function(...)
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/kietsonphongthanhnghia-a11y/Uhyeah/refs/heads/main/Protected_1425045629292384.lua.txt'))()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/RUNEX-RNX/The-strongest-battlegrounds/refs/heads/main/1script2t.luau'))()
     end,
     Title = 'RNX kiba v4 ',
-    Desc = '',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
     Callback = function(...)
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/Cyborg883/KyotoTechRework/refs/heads/main/Protected_9378660372508532.lua'))()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/RUNEX-RNX/The-strongest-battlegrounds/refs/heads/main/1script3t.luau'))()
     end,
-    Title = 'Kyoto Rework',
-    Desc = '',
+    Title = 'RNX Kyoto Rework',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
     Callback = function(...)
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/MerebennieOfficial/ExoticJn/refs/heads/main/Merebennie%20Hub%20V2'))()
+        loadstring(game:HttpGet('-'))()
     end,
-    Title = 'Merebennie Hub V1.5',
-    Desc = '',
+    Title = 'KGX Hub V1.5',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
