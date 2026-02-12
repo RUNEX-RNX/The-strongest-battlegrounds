@@ -92,26 +92,18 @@ _call49:Button({
 _call49:Button({
     Locked = false,
     Callback = function(...)
-        loadstring(game:HttpGet('-'))()
+        loadstring(game:HttpGet('wwww'))()
     end,
-    Title = 'KGX Hub V1.5',
+    Title = 'RNX Surf Tech',
     Desc = 'join telegram @RUNEX_X_SCRIPT',
-})
-_call49:Button({
-    Locked = false,
-    Callback = function(...)
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/ngoclinh02042011-stack/Surf-Tech/refs/heads/main/ThanhDuySurfTech.lua'))()
-    end,
-    Title = 'Surf Tech',
-    Desc = '',
 })
 _call49:Button({
     Locked = false,
     Callback = function(...)
         loadstring(game:HttpGet('https://raw.githubusercontent.com/ngoclinh02042011-stack/Gojo-Tech/refs/heads/main/DuydepzaiGojoTech.lua'))()
     end,
-    Title = 'Gojo Tech',
-    Desc = '',
+    Title = 'RNX Gojo ',
+    Desc = 'join telegram @RUNEX_X_SCRIPT',
 })
 _call49:Button({
     Locked = false,
